@@ -24,9 +24,7 @@ public class MFCCs {
 		AudioDispatcher dispatcher;
 		try {
 			dispatcher = AudioDispatcherFactory.fromFile(new File("1530074385995.wav"), 1024, 0);
-
 			dispatcher.addAudioProcessor(new AudioProcessor() {
-
 				@Override
 				public void processingFinished() {
 					System.out.println("Size : " + size);

@@ -6,6 +6,6 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Supper Tep/Desktop/TarsosDSP-latest.jar"/>
+	<classpathentry kind="lib" path="D:/anhlt/workspace/javaMFCC/TarsosDSP-latest.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
